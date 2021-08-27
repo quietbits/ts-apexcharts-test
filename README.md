@@ -1,2 +1,3 @@
-# ts-apexcharts-test
-Chart demo using ApexCharts
+# ApexCharts
+
+Chart demo using [ApexCharts](https://apexcharts.com/).
